@@ -16,6 +16,14 @@ The function will verify your balance is still on the repartition (minus an allo
 
 This contract has not been audited. It should globally work, but maybe there are flaws. Use at your own risk.
 
+## Roadmap
+
+| Version | Description |
+| --- | --- |
+| v0.4 | First functional version |
+| v0.6 | Be able to define any swap app at the constructor (uniswap, 1inch, ...) |
+| v0.8 | Last release until audit or more _tests in prod_ |
+
 ## constructor
 
 Create the contract with the following parameters :
